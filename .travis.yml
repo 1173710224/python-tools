@@ -1,1 +1,1 @@
- language: python script: true
+ language: python script: python music.py
